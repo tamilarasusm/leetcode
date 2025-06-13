@@ -4,7 +4,9 @@ package in.tamilarasu.leetcode;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        MergeAlternately mergeAlternately = new MergeAlternately();
-        System.out.println(mergeAlternately.mergeAlternately("abcd", ""));
+
+        System.out.println(new MergeAlternately().mergeAlternately("abcd", ""));
+
+        System.out.println(new GcdOfStrings().sol("ABCABC", "ABC"));
     }
 }
