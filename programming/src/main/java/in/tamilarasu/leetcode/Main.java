@@ -5,8 +5,12 @@ package in.tamilarasu.leetcode;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println(new MergeAlternately().mergeAlternately("abcd", ""));
+        //System.out.println(new MergeAlternately().mergeAlternately("abcd", ""));
 
-        System.out.println(new GcdOfStrings().sol("ABCABC", "ABC"));
+        //System.out.println(new GcdOfStrings().sol("ABCABC", "ABC"));
+
+        //System.out.println(new KidsWithCandies().kidsWithCandies(new int[]{4,2,1,1,2},1));
+
+        System.out.println(new CanPlaceFlowers().canPlaceFlowers(new int[]{1,0,0,0,1}, 1));
     }
 }
