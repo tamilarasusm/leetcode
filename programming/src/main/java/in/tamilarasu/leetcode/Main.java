@@ -11,6 +11,8 @@ public class Main {
 
         //System.out.println(new KidsWithCandies().kidsWithCandies(new int[]{4,2,1,1,2},1));
 
-        System.out.println(new CanPlaceFlowers().canPlaceFlowers(new int[]{1,0,0,0,1}, 1));
+        //System.out.println(new CanPlaceFlowers().canPlaceFlowers(new int[]{1,0,0,0,1}, 1));
+
+        System.out.println(new ReverseVowels().reverseVowels("IceCreAm"));
     }
 }
