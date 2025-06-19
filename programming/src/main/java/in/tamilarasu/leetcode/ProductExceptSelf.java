@@ -1,7 +1,5 @@
 package in.tamilarasu.leetcode;
 
-import java.util.Arrays;
-
 public class ProductExceptSelf {
 
     public int[] productExceptSelf(int[] nums) {
