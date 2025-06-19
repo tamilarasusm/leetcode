@@ -1,5 +1,7 @@
 package in.tamilarasu.leetcode;
 
+import java.util.Arrays;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
@@ -15,6 +17,8 @@ public class Main {
 
         //System.out.println(new ReverseVowels().reverseVowels("IceCreAm"));
 
-        System.out.println(new ReverseWords().reverseWords("the     sky is blue"));
+        //System.out.println(new ReverseWords().reverseWords("the     sky is blue"));
+
+        System.out.println(Arrays.toString(new ProductExceptSelf().productExceptSelf(new int[]{1, 2, 3, 4})));
     }
 }
