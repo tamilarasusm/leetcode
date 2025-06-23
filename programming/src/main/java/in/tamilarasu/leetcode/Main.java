@@ -21,6 +21,15 @@ public class Main {
 
         //System.out.println(Arrays.toString(new ProductExceptSelf().productExceptSelf(new int[]{1, 2, 3, 4})));
 
-        System.out.println(new IncreasingTriplet().increasingTriplet(new int[]{2,1,3,4,-6}));
+        //System.out.println(new IncreasingTriplet().increasingTriplet(new int[]{2,1,3,4,-6}));
+        //System.out.println(new AddTwoNumbers().addTwoNumbers("435","555"));
+
+        //System.out.println(new StringCompression().compress(new char[] {'a','a','b','b','c','c','c'}));
+
+        //System.out.println(new StringCompression().compress(new char[] {'a'}));
+
+        //System.out.println(new StringCompression().compress(new char[] {'a','b','b','b','b','b','b','b','b','b','b','b','b'}));
+
+
     }
 }
