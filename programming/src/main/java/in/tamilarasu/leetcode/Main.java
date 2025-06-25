@@ -30,6 +30,8 @@ public class Main {
 
         //System.out.println(new StringCompression().compress(new char[] {'a','b','b','b','b','b','b','b','b','b','b','b','b'}));
 
+        //new MoveZeros().moveZeros(new int[]{0,1,0,3,12});
 
+        System.out.println(new IsSubsequence().isSubsequence("acb", "ahbgdc"));
     }
 }
